@@ -2,6 +2,8 @@
 
 [Curso de JavaScript: salvando dados localmente com IndexedDB da formação JavaScript/Alura](https://cursos.alura.com.br/course/javascript-es6-orientacao-a-objetos-parte-3)
 
+[<< CURSO ANTERIOR](https://github.com/pvreboucas/javascript-mvc-proxy-factory)
+
 [Principal](https://github.com/pvreboucas/javascript-indexeddb)
 
 * [Aula 1 - Guardando negociações offline com IndexedDB](https://github.com/pvreboucas/javascript-indexeddb/tree/aula-01)
